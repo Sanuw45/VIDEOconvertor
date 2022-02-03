@@ -15,7 +15,7 @@
   
 `Public branch` - For your channel
 <p align="left">
-<a href="https://github.com/vasusen-code/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
+<a href="https://github.com/Sanuw45/VIDEOconvertor/tree/public"> <img src="https://img.shields.io/badge/Github-public%20branch-blueviolet?style=for-the-badge&logo=github" width="220""/></a>
 </p>
 
 `Telegran Channel` - DroneBots
